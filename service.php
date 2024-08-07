@@ -3,7 +3,7 @@
 
 <head>
   <meta charset="utf-8" />
-  <title>Zoofari - Zoo & Safari Park11111 Website Template</title>
+  <title>Zoofari - Zoo & Safari Park11 Website Template</title>
   <meta content="width=device-width, initial-scale=1.0" name="viewport" />
   <meta content="" name="keywords" />
   <meta content="" name="description" />
